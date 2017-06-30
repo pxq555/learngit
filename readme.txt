@@ -5,4 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 这一次已经提交到github上
 Creating a new branch is quick and simple.
-修改内容，此次是测试合并。这里添加的是修改的Bug
+修改内容，此次是测试合并。
+这里是正在开发的内容。
